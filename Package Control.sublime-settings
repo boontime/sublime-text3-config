@@ -1,0 +1,42 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+		"Codecs33"
+	],
+	"installed_packages":
+	[
+		"Anaconda",
+		"auto-save",
+		"AutoFileName",
+		"Bootstrap 3 Snippets",
+		"BracketHighlighter",
+		"Codecs33",
+		"ColorPicker",
+		"ConvertToUTF8",
+		"CSScomb",
+		"Django",
+		"DocBlockr",
+		"Emmet",
+		"FileDiffs",
+		"Git",
+		"GitGutter",
+		"HTML5",
+		"jQuery",
+		"JsFormat",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Package Control",
+		"PackageResourceViewer",
+		"Python PEP8 Autoformat",
+		"requirementstxt",
+		"Scrapy",
+		"SFTP",
+		"SideBarEnhancements",
+		"SublimeAStyleFormatter",
+		"SublimeREPL",
+		"Theme - Brogrammer",
+		"Theme - Glacier",
+		"TrailingSpaces"
+	]
+}
