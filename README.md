@@ -17,4 +17,4 @@ Sublime-text3-config
 > * Syncdb operation steps
 >>> 1. cd [Packages folder path]
 >>> 2. rm -rf [Packages folder path]/User
->>> 3. git clone  https://github.com/boontime/sublime-text3-config User
+>>> 3. `git clone  https://github.com/boontime/sublime-text3-config User`
