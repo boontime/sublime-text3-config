@@ -10,16 +10,11 @@ Sublime-text3-config
 
 > * User data paths for different operating systems
 >> [Packages folder path]
->>> Windows: %APPDATA%Sublime Text 3/Packages/
->>> Linux: ~/.config/sublime-text-3/Packages/
->>> OS X: ~/Library/Application Support/Sublime Text 3/Packages/
+>>> * Windows: %APPDATA%Sublime Text 3/Packages/
+>>> * Linux: ~/.config/sublime-text-3/Packages/
+>>> * OS X: ~/Library/Application Support/Sublime Text 3/Packages/
 
 > * Syncdb operation steps
->>> cd [Packages folder path]
->>> rm -rf [Packages folder path]/User
->>>
-    git clone  https://github.com/boontime/sublime-text3-config User
-
-
-
-<meta http-equiv="refresh" content='0.5'>
+>>> 1. cd [Packages folder path]
+>>> 2. rm -rf [Packages folder path]/User
+>>> 3. git clone  https://github.com/boontime/sublime-text3-config User
