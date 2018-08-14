@@ -2,7 +2,6 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"Codecs33"
 	],
 	"installed_packages":
 	[
@@ -20,6 +19,7 @@
 		"FileDiffs",
 		"Git",
 		"GitGutter",
+		"GoSublime",
 		"jQuery",
 		"JsFormat",
 		"MarkdownEditing",
